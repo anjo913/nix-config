@@ -1,0 +1,7 @@
+{ ... }:
+
+{
+  imports = [
+    ./userDirs.nix
+  ];
+}
